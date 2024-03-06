@@ -1,9 +1,7 @@
 Utilizando a linguagem de programacao Python, implemente um ou mais codigos de exemplo dos seguintes elementos: (a) uma estrutura de repeticao (b) uma estrutura de tomada de decisao 2. Envie o seu código e o comprovante de execuçao para seu repositorio no github
-Uma estrutura de repeticao:
-Python 3.6
-known limitations
-1	# calcular o imposto sobre vários valores
-2	lista_precos = [10, 10, 200, 50, 300]
-3	for preco in lista_precos:
-4	    imposto = preco*0.1
-5	    print(imposto)
+Uma estrutura de repeticao: https://www.mycompiler.io/pt/new/python
+# calcular o imposto sobre vários valores
+lista_precos = [10, 10, 200, 50, 300]
+for preco in lista_precos:
+imposto = preco*0.1
+print(imposto)
